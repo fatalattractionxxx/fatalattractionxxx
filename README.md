@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maythecoldnesscorruptme&color=1F4B4B&label=visitors" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=maythecoldnesscorruptme&color=1a5085&label=visitors" alt="visitors"/>
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
